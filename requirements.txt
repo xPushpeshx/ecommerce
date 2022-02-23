@@ -148,7 +148,7 @@ pytz==2019.2
 PyYAML==3.13
 qrcode==6.1
 readme-renderer==26.0
-redis==4.4.1
+redis==4.1.4
 regex==2022.1.18
 requests==2.20.1
 requests-oauthlib==1.2.0
